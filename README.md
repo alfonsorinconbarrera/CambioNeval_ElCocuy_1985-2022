@@ -12,4 +12,5 @@ Valor NDSI en 0,2 como referencia.
 Incluye estadística de la media de todo el conjunto de datos para NDSI fuente ClimnateEngine
 Proveedor de los datos: USGS y NASA. Escala espacial: 30 metros
 
-Composición y análisis: alfonso rincón barrera
+Composición y análisis: 
+alfonso rincón barrera
